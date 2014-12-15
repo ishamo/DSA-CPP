@@ -1,3 +1,1 @@
-I am a C++ beginner.
-Hope to be a coder and make friends with you!
-
+学研编程中遇到的一些问题，记录下来随时研究改进。
