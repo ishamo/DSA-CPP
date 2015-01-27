@@ -1,1 +1,1 @@
-�뿴BinaryTree!
+请看BinaryTree!
